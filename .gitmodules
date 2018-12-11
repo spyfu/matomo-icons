@@ -1,6 +1,8 @@
 [submodule "flag-icon-css"]
-	path = submodules/flag-icon-css
-	url = https://github.com/lipis/flag-icon-css.git
+    path = submodules/flag-icon-css
+    url = https://github.com/lipis/flag-icon-css.git
+    brach = master
 [submodule "submodules/browser-logos"]
-	path = submodules/browser-logos
-	url = https://github.com/alrra/browser-logos.git
+    path = submodules/browser-logos
+    url = https://github.com/alrra/browser-logos.git
+    branch = master
